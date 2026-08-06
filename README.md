@@ -9,10 +9,10 @@
 
 ## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/user.svg" width="22" height="22" align="center" /> About Me
 
-* <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/graduation-cap.svg" width="16" height="16" /> MSc Student in **Computer Engineering & HPC** (Politecnico di Milano & KTH, EIT Digital Master School)[cite: 1].
-* <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/trophy.svg" width="16" height="16" /> Bachelor's Degree in Computer Engineering (**110/110 cum laude**) at Politecnico di Bari[cite: 1].
-* <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/microchip.svg" width="16" height="16" /> Specialized in **LLM Multi-Agent systems (CrewAI)**, RAG, and custom Machine Learning models[cite: 1].
-* <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/shield-halved.svg" width="16" height="16" /> Cybersecurity enthusiast: National finalist at **Cyberchallenge.IT 2024**[cite: 1].
+* <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/graduation-cap.svg" width="16" height="16" /> MSc Student in **Computer Engineering & HPC** (Politecnico di Milano & KTH, EIT Digital Master School).
+* <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/trophy.svg" width="16" height="16" /> Bachelor's Degree in Computer Engineering (**110/110 cum laude**) at Politecnico di Bari.
+* <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/microchip.svg" width="16" height="16" /> Specialized in **LLM Multi-Agent systems (CrewAI)**, RAG, and custom Machine Learning models.
+* <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/shield-halved.svg" width="16" height="16" /> Cybersecurity enthusiast: National finalist at **Cyberchallenge.IT 2024**.
 
 ---
 
